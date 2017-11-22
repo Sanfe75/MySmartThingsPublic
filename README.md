@@ -1,0 +1,2 @@
+# MySmartThingsPublic
+My SmartThings Projects
